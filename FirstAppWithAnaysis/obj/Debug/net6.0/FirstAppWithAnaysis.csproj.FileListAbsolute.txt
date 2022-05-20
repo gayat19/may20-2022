@@ -1,0 +1,15 @@
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\bin\Debug\net6.0\FirstAppWithAnaysis.exe
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\bin\Debug\net6.0\FirstAppWithAnaysis.deps.json
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\bin\Debug\net6.0\FirstAppWithAnaysis.runtimeconfig.json
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\bin\Debug\net6.0\FirstAppWithAnaysis.dll
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\bin\Debug\net6.0\ref\FirstAppWithAnaysis.dll
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\bin\Debug\net6.0\FirstAppWithAnaysis.pdb
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.csproj.AssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.AssemblyInfoInputs.cache
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.AssemblyInfo.cs
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.dll
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\ref\FirstAppWithAnaysis.dll
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.pdb
+C:\Users\gayat\OneDrive\Desktop\EuroFins\FirstAppWithAnaysis\obj\Debug\net6.0\FirstAppWithAnaysis.genruntimeconfig.cache

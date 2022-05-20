@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hmazjw7lFqICbr56qPjhSzTNE6d0bSP7Qi4toEuY4IFhsZhrczqigaf+jQ0GLiXkgPZH9ggPo0oLCsAAMEHdFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gayat\\OneDrive\\Desktop\\EuroFins\\FirstAppWithAnaysis\\FirstAppWithAnaysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gayat\\.nuget\\packages\\sonaranalyzer.csharp\\8.39.0.47922\\sonaranalyzer.csharp.8.39.0.47922.nupkg.sha512"
+  ],
+  "logs": []
+}
